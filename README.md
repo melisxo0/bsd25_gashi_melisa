@@ -79,10 +79,13 @@ Verifies enrollments meet prerequisites (e.g. bachelor without a project)
 
 ## Übungen
 - [Exercise1 Part1](exercise1_part1.md)
-- Exercise2 Part2
+- [Exercise1 Part2](exercise1_part2.md)
+- [Exercise1 Part3](exercise1_part3.md)
 - Exercise2
 
 
 **Author**
 Melisa Gashi 
 52505183@edu-campus02.at
+[GitHub Profil](https://github.com/melisxo0)
+[Campus02](https://www.campus02.at)
