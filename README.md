@@ -84,7 +84,7 @@ Verifies enrollments meet prerequisites (e.g. bachelor without a project)
 - Exercise2
 
 
-**Author**
+## Autor
 Melisa Gashi 
 52505183@edu-campus02.at
 [GitHub Profil](https://github.com/melisxo0)
