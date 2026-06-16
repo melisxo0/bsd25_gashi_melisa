@@ -1,6 +1,8 @@
 target/
 .idea/
 *.log
+logs/
+src/main/resources/log4j2.xml
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
