@@ -1,6 +1,11 @@
 package at.campus02.bsd;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class Main {
+
+    private static final Logger logger = LogManager.getLogger(Main.class);
 
     public static void main(String[] args) {
         Calculator calc = new Calculator();
@@ -12,5 +17,7 @@ public class Main {
 
         System.out.println("Melisa Gashi");
 
+        logger.info("Info Message");
+        logger.error("Error Message");
     }
 }
