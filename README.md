@@ -83,6 +83,10 @@ Verifies enrollments meet prerequisites (e.g. bachelor without a project)
 - [Exercise1 Part3](exercise1_part3.md)
 - Exercise2
 
+## Konfiguration
+Für Logging wird log4j2 verwendet
+Kopiere `log4j2.xml.template` und benenne es zu `log4j2.xml` um
+
 
 ## Autor
 - Melisa Gashi 
